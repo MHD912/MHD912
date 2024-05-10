@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Mohammad Hussein Hamed
-- 👨‍🎓 I'm a 3rd-year software engineering student at Arab International University 
-- 👀 I’m interested in Android and Web Development
-- 🌱 I’m currently learning Java, C++, ASP.NET Framework, HTML, and CSS 
-- 💞️ I’m looking to collaborate on Visual Studio Live Share
+- 👨‍🎓 I'm a 4th-year software engineering student at Arab International University 
+- 👀 I’m interested in Mobile Development
+- 🌱 I’m currently learning Flutter 
 - 📫 You can reach me via this email: hussein.912.workshop@gmail.com
 
 <!---
