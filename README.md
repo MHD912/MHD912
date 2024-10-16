@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohammad Hussein Hamed
-- 👨‍🎓 I'm a 4th-year software engineering student at Arab International University 
+- 👨‍🎓 I'm a software engineering student at Arab International University 
 - 👀 I’m interested in Mobile Development
 - 🌱 I’m currently learning Flutter 
 - 📫 You can reach me via this email: hussein.912.workshop@gmail.com
